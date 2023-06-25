@@ -1,0 +1,144 @@
+---
+title: "Dongyoung Kim's resume"
+author: Dongyoung Kim
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+# uncomment this line to produce HTML and PDF in RStudio:
+#knit: pagedown::chrome_print
+---
+
+Aside
+================================================================================
+
+
+![Dong Young Kim](https://avatars1.githubusercontent.com/u/895125?s=400&v=4){width=80%}
+
+
+Contact Info {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-envelope"></i> economistkdy@naver.com
+- <i class="fa fa-github"></i> [github.com/crboy1118](https://github.com/crboy1118)
+- [blog.naver.com/economistkdy](https://blog.naver.com/economistkdy)
+- <i class="fa fa-phone"></i> +82 010-4015-3948
+- For more information, please contact me via email.
+
+
+Skills {#skills}
+--------------------------------------------------------------------------------
+
+- Experienced in Investing analysis, learning Business models, and optimization methods.
+
+- Full experience with next generation sequencing data analysis.
+
+- Highly skilled in Content creating, Investment, Business modeling
+
+
+Disclaimer {#disclaimer}
+--------------------------------------------------------------------------------
+
+
+Last updated on `r Sys.Date()`.
+
+
+
+Main
+================================================================================
+
+Dongyoung Kim {#title}
+--------------------------------------------------------------------------------
+
+### Currently studying for a Economy student position
+
+**많은 분들에게 도움줄 수 있는 사람을 꿈꾸는 김동영입니다.**
+독서와 같이 배우는 것을 즐깁니다.  새로운 것들을 스스로 찾아보며 공부하는 것과 세상을 변화시키는 모든 것들을 알아보기를 좋아합니다. 선견지명 속에서 열정과 성실함을 바탕으로 항상 올바른 선택을 하기 위해 노력하고 있습니다.
+
+Education {data-icon=graduation-cap data-concise=true}
+--------------------------------------------------------------------------------
+
+### Hanyang University of Economic & Finance
+
+B.S. in Economic & Finance (GPA 4.1/4.5)
+
+Seoul, Korea
+
+2024
+
+Thesis: Investment
+
+- Scholarship student from Anyang City (2017)
+- Scholarship student from Gyeonggi-do (2018)
+- Scholarship student from South Korea (2023)
+  
+Professional Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+
+### Product Manager , intern
+
+Alison Partners Inc, (PR).
+
+Seoul, Korea
+
+2021
+
+::: concise
+- Lead Bio investment Website project.
+- Wrote about PR idea about Nespresso, Sanopi.
+:::
+
+### Investment Team , Research intern
+
+DSC Investment, Schmidt (VC).
+
+Seoul, Korea
+
+2022
+
+::: concise
+- Analyzed Portfolio's data and meet 80 companies. 
+- Wrote analysis of Pluglink, AutoL, Weebut.
+- Studied Blockchain and wrote research reports. 
+- Also did case studies to identify the Future of Work.
+:::
+
+### Marketing , intern
+
+Steppay, (Fintech Startup)
+
+Seoul, Korea
+
+2023
+
+::: concise
+- Analyzed user's experience. 
+- Studied Stripe & Shopify and Finance policy.
+- Wrote 4 contents about subscribing user.
+:::
+
+Research Experience {data-icon=laptop}
+--------------------------------------------------------------------------------
+
+### Graduate Research Assistant
+
+StockWars & HYFE, Hanyang Univ.
+
+Seoul, Korea
+
+2017 - 2022
+
+- Researched 4 companies and represent Hanyang Univ.
+- Studied Quant trading and Run a fund from Hanyang Univ.
+
+::: concise
+- 안양시 재능기부 교육봉사 
+- 푸르덴셜 경제교육봉사 
+- 삼성증권 경제교육 봉사단 
+- 여신금융협회 서포크레딧 1기 
+- 이투데이 '금융대전 기자단 5기'
+- 국가정책연구포털 NKIS 기자단 
+- 신한은행 대학생 홍보단 
+- 금융감독원 대학생 기자단 
+:::
